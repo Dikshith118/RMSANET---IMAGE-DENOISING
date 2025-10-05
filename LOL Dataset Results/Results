@@ -1,1 +1,23 @@
 LOL DATASET RESULTS
+
+Final Results Summary
+
+🔹 LOLv1 Dataset
+
+Best Epoch: 99
+Average PSNR: 21.9500
+Average SSIM: 0.8491
+
+🔹 LOLv2 Synthetic Dataset
+
+Best Epoch: 98
+Average PSNR: 24.0164
+Average SSIM: 0.9225
+
+🔹 LOLv2 Real Dataset
+
+Best Epoch: 97
+Average PSNR: 20.5251
+Average SSIM: 0.8620
+
+Results folder drive link -- https://drive.google.com/drive/folders/1ejbiQodazJoGLLMUakfIbVEt6JKFyFYY?usp=sharing
